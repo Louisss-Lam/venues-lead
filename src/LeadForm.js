@@ -155,7 +155,7 @@ const LeadForm = () => {
             onChange={handleChange}
             className="h-5 w-5"
           />
-          <span>I am happy to receive a call from DWM.</span>
+          <span>I am happy to receive a call from Scottish Power about my Gas & Electricity supply.</span>
         </label>
 
         {/* Submit Button */}
